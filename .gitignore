@@ -1,0 +1,23 @@
+# Build output
+bin/
+obj/
+publish/
+
+# WPF markup-compile leftovers
+*_wpftmp.csproj
+
+# IDE / user state
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.DotSettings.user
+
+# Claude Code local state
+.claude/
+
+# OS noise
+Thumbs.db
+Desktop.ini
+.DS_Store

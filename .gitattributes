@@ -1,0 +1,11 @@
+* text=auto
+
+*.cs    text diff=csharp
+*.xaml  text
+*.csproj text
+*.manifest text
+
+*.otf binary
+*.ttf binary
+*.png binary
+*.ico binary
