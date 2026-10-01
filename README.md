@@ -1,7 +1,7 @@
 # dynamic-island-by-mihailkotovski
 динамический островок от крутого ПОЦАНАААА t.me/kotovprojects
 
-развернутые исходники и оригинал лежат здесь: https://github.com/mihailkotovski/DynamicIsland
+исходники и оригинал лежат здесь: https://github.com/mihailkotovski/DynamicIsland
 здесь лишь измененная версия с возможностью перемещения положения островка/память положения/скрытие на клавишу
 
 # Dynamic Island для Windows
